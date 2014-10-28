@@ -1,0 +1,689 @@
+﻿$axure.loadCurrentPage({
+  "url":"email_sign_in.html",
+  "generationDate":new Date(1399599385243.02),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"MoveSecond"],
+  "page":{
+    "packageId":"29c5c26047534e5ab82d93514c796497",
+    "type":"Axure:Page",
+    "name":"Email Sign In",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+      "onLoad":{
+        "description":"OnLoad",
+        "cases":[{
+            "description":"Case 1",
+            "isNewIfGroup":false,
+            "actions":[{
+                "action":"wait",
+                "description":"Wait 1500 ms",
+                "waitTime":1500},
+{
+                "action":"setPanelState",
+                "description":"Set Panel to State",
+                "panelsToStates":[]},
+{
+                "action":"wait",
+                "description":"Wait 1500 ms",
+                "waitTime":1500},
+{
+                "action":"setPanelState",
+                "description":"Set Panel to State",
+                "panelsToStates":[]},
+{
+                "action":"wait",
+                "description":"Wait 1500 ms",
+                "waitTime":1500},
+{
+                "action":"setPanelState",
+                "description":"Set Panel to State",
+                "panelsToStates":[]},
+{
+                "action":"wait",
+                "description":"Wait 1500 ms",
+                "waitTime":1500},
+{
+                "action":"setPanelState",
+                "description":"Set Panel to State",
+                "panelsToStates":[]},
+{
+                "action":"wait",
+                "description":"Wait 1500 ms",
+                "waitTime":1500},
+{
+                "action":"setPanelState",
+                "description":"Set Panel to State",
+                "panelsToStates":[]}]}]}},
+    "diagram":{
+      "objects":[{
+          "id":"e3637eeb342e4e60a9ea9b62655f1910",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":161,
+              "y":10}},
+          "adaptiveStyles":{
+},
+          "masterId":"173c27c70ae0418bbbb4b00d9f58d4ab"},
+{
+          "id":"a96e597496864f59939e4091d31aa4ef",
+          "label":"Main",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":192,
+              "y":144},
+            "size":{
+              "width":10,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"23f2d3c407e845d986045245ec5764fe",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"c3e908521d8143c3bccaf82d71688327",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":321,
+                      "height":551},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFDBDBDB}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0ed3d5ef4d7f421684736e61c6abd96b",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "size":{
+                          "width":321,
+                          "height":551},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFDBDBDB}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u4.png"}},
+{
+                  "id":"7d8af70f71ab456c9ce299ab17aa9c86",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF727374},
+                    "size":{
+                      "width":321,
+                      "height":40},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF4463A1}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"636aaa0bc5b944c7b1f7c39ddff2e106",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF727374},
+                        "size":{
+                          "width":321,
+                          "height":40},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF4463A1}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/facebook_sign_up___sign_in/u29.png"}},
+{
+                  "id":"d4ff0b3b820f41d39603f156900ad39a",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":11,
+                      "y":223},
+                    "size":{
+                      "width":299,
+                      "height":33},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFD4D4D4}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"054c70fe2bb3404fa2d5812ea0d26298",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":11,
+                          "y":223},
+                        "size":{
+                          "width":299,
+                          "height":33},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFD4D4D4}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/facebook_sign_up___sign_in/u39.png"}},
+{
+                  "id":"dc9debc8bc7a41ed9e89fa2e793196cd",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":15,
+                      "y":227},
+                    "size":{
+                      "width":287,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"fb821e8598cf4662b54e12eb1eb76f99",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":11,
+                      "y":264},
+                    "size":{
+                      "width":299,
+                      "height":33},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFD4D4D4}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"d862a2a7dcc54a62beba978f8b34d030",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "location":{
+                          "x":11,
+                          "y":264},
+                        "size":{
+                          "width":299,
+                          "height":33},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFD4D4D4}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/facebook_sign_up___sign_in/u39.png"}},
+{
+                  "id":"632445a4001d47aabaaf6f0edcbc1cfa",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":15,
+                      "y":268},
+                    "size":{
+                      "width":287,
+                      "height":25}},
+                  "adaptiveStyles":{
+}},
+{
+                  "id":"8cd43e0cb42b45adbd883dae4c3f3987",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontSize":"12px",
+                    "fontWeight":"700",
+                    "location":{
+                      "x":11,
+                      "y":190},
+                    "size":{
+                      "width":267,
+                      "height":15}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"21adbbb9052d4328b6e25b6b5301a471",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontSize":"12px",
+                        "fontWeight":"700",
+                        "location":{
+                          "x":11,
+                          "y":190},
+                        "size":{
+                          "width":267,
+                          "height":15}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"resources/images/transparent.gif"}},
+{
+                  "id":"541fc88fa68a4db384408006c8dfffd2",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontWeight":"700",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF6F6F6F},
+                    "location":{
+                      "x":200,
+                      "y":315},
+                    "size":{
+                      "width":110,
+                      "height":35},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF0F0F0},
+                    "cornerRadiusTopLeft":"12"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4a63c90b48f34aa2bef6e002d6195c66",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontWeight":"700",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF6F6F6F},
+                        "location":{
+                          "x":200,
+                          "y":315},
+                        "size":{
+                          "width":110,
+                          "height":35},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFF0F0F0},
+                        "cornerRadiusTopLeft":"12"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"Open Dashboard (Phase 1) in Current Window",
+                              "target":{
+                                "targetType":"page",
+                                "url":"dashboard__phase_1_.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/home/u75.png"}},
+{
+                  "id":"608ffd8368ae4f8dbb987b8a871a2c13",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontSize":"12px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF4D4D4D,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFE2E2E2},
+                    "location":{
+                      "x":11,
+                      "y":320},
+                    "size":{
+                      "width":160,
+                      "height":26},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF0F0F0},
+                    "cornerRadiusTopLeft":"67"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ef2dd94e1a6b4631b80ff86f34a1d8cb",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontSize":"12px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF4D4D4D,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFFE2E2E2},
+                        "location":{
+                          "x":11,
+                          "y":320},
+                        "size":{
+                          "width":160,
+                          "height":26},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFF0F0F0},
+                        "cornerRadiusTopLeft":"67"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/email_sign_in/u18.png"}},
+{
+                  "id":"a4a5305c66d446469249cf946a509a33",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Arial Bold', 'Arial'",
+                    "fontSize":"15px",
+                    "fontWeight":"700",
+                    "location":{
+                      "x":86,
+                      "y":73},
+                    "size":{
+                      "width":150,
+                      "height":60},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF0F0F0}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"aef76f46c99049c9bc836f66410f5607",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                      "panelIndex":0,
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Arial Bold', 'Arial'",
+                        "fontSize":"15px",
+                        "fontWeight":"700",
+                        "location":{
+                          "x":86,
+                          "y":73},
+                        "size":{
+                          "width":150,
+                          "height":60},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFFF0F0F0}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/home/u67.png"}},
+{
+                  "id":"8849b1c2fece459bb1a0eb301b28f593",
+                  "label":"",
+                  "parentDynamicPanel":"a96e597496864f59939e4091d31aa4ef",
+                  "panelIndex":0,
+                  "type":"horizontalLine",
+                  "styleType":"horizontalLine",
+                  "visible":true,
+                  "style":{
+                    "location":{
+                      "x":0,
+                      "y":160},
+                    "size":{
+                      "width":321,
+                      "height":10},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFF0F0F0}},
+                  "adaptiveStyles":{
+},
+                  "images":{
+                    "start~":"resources/images/transparent.gif",
+                    "end~":"resources/images/transparent.gif",
+                    "line~":"images/home/u71_line.png"}}],
+              "style":{
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "image":null,
+                "imageHorizontalAlignment":"near",
+                "imageVerticalAlignment":"near",
+                "imageRepeat":"auto"},
+              "adaptiveStyles":{
+}}]}]}},
+  "masters":{
+    "173c27c70ae0418bbbb4b00d9f58d4ab":{
+      "packageId":"173c27c70ae0418bbbb4b00d9f58d4ab",
+      "type":"Axure:Master",
+      "name":"iPhone",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"Applied Font",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"c60c636099a44626bbd4a83a30e1a155",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "size":{
+                "width":379,
+                "height":797}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"97a5ab8834f540a1bb37a576e6d418c0",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "size":{
+                    "width":379,
+                    "height":797}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/splash_screen/u1.png"}}]}}},
+  "objectPaths":{
+    "e3637eeb342e4e60a9ea9b62655f1910":{
+      "scriptId":"u0",
+      "c60c636099a44626bbd4a83a30e1a155":{
+        "scriptId":"u1"},
+      "97a5ab8834f540a1bb37a576e6d418c0":{
+        "scriptId":"u2"}},
+    "a96e597496864f59939e4091d31aa4ef":{
+      "scriptId":"u3"},
+    "c3e908521d8143c3bccaf82d71688327":{
+      "scriptId":"u4"},
+    "0ed3d5ef4d7f421684736e61c6abd96b":{
+      "scriptId":"u5"},
+    "7d8af70f71ab456c9ce299ab17aa9c86":{
+      "scriptId":"u6"},
+    "636aaa0bc5b944c7b1f7c39ddff2e106":{
+      "scriptId":"u7"},
+    "d4ff0b3b820f41d39603f156900ad39a":{
+      "scriptId":"u8"},
+    "054c70fe2bb3404fa2d5812ea0d26298":{
+      "scriptId":"u9"},
+    "dc9debc8bc7a41ed9e89fa2e793196cd":{
+      "scriptId":"u10"},
+    "fb821e8598cf4662b54e12eb1eb76f99":{
+      "scriptId":"u11"},
+    "d862a2a7dcc54a62beba978f8b34d030":{
+      "scriptId":"u12"},
+    "632445a4001d47aabaaf6f0edcbc1cfa":{
+      "scriptId":"u13"},
+    "8cd43e0cb42b45adbd883dae4c3f3987":{
+      "scriptId":"u14"},
+    "21adbbb9052d4328b6e25b6b5301a471":{
+      "scriptId":"u15"},
+    "541fc88fa68a4db384408006c8dfffd2":{
+      "scriptId":"u16"},
+    "4a63c90b48f34aa2bef6e002d6195c66":{
+      "scriptId":"u17"},
+    "608ffd8368ae4f8dbb987b8a871a2c13":{
+      "scriptId":"u18"},
+    "ef2dd94e1a6b4631b80ff86f34a1d8cb":{
+      "scriptId":"u19"},
+    "a4a5305c66d446469249cf946a509a33":{
+      "scriptId":"u20"},
+    "aef76f46c99049c9bc836f66410f5607":{
+      "scriptId":"u21"},
+    "8849b1c2fece459bb1a0eb301b28f593":{
+      "scriptId":"u22"}}});
